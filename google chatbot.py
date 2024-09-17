@@ -3,8 +3,8 @@ import google.generativeai as ai
     
    
 
-
-Api_Key = 'AIzaSyDrLp8xuAScNrBHc0Y81qEcUBEVthuOV1c'
+# enter your own api key from aistudio.google.com
+Api_Key = ''
 
 ai.configure(api_key = Api_Key)
 
